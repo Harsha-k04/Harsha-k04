@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Harsha-k04
+- 👀 I’m interested in data science, machine learning, and data visualization.
+- 🌱 I’m currently learning Data Science as I pursue my master’s degree.
+- 💞️ I’m looking to collaborate on projects related to data analysis, predictive modeling, or any interesting data science challenges!
+- 📫 How to reach me: You can connect with me on LinkedIn or send me a message here on GitHub.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once read "The Alchemist" three times in a row because I believe in following my dreams and finding my own personal legend!
