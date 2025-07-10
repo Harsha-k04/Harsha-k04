@@ -2,7 +2,7 @@
 <p align="center">Passionate about building meaningful tech with data & code</p>
 
 - 🎓 MSc Data Science, CHRIST University  
-🚀 **Current Focus**
+### 🚀 **Current Focus**
 - Working on full-stack web apps using Flask and PostgreSQL
 - Learning more about cloud deployment and backend integration
   
